@@ -1,3 +1,12 @@
 def draw_market():
-    print("market not found")
+    print("__________________________")
+    print("|   _     MARKET    _    |")
+    print("|  |_|             |_|   |")
+    print("|                        |")
+    print("|                        |")
+    print("|                        |")
+    print("|                        |")
+    print("|   🍔🍕🍖🍗🍚🍜🍅🍍🍑   |")
+    print("|   🥗🥕🍲🥐🥖🍴🍓🥐🥑   |")
+    print("|________________________|")
     return
